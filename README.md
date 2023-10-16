@@ -8,4 +8,4 @@
 
 3. [Visualize_Initial_Explore.py.ipynb](https://github.com/Gauthami25/Predictive-Forecasting/blob/master/Visualize_Initial_Explore.py.ipynb): - Includes some initial visualizations of data (aggregated and resampled hourly) using python and matplotlb.
 
-4. [Timeseries_FirstLook_1month.py.ipynb](https://github.com/Gauthami25/Predictive-Forecasting/blob/master/Timeseries_FirstLook_1month.py.ipynb) - Contains code for exploring timeseries from 1 month and 100 VMs. Includes initial models using ARIMA, SARIMAX, Holt-Winters (smoothing), some visualizations, and stationarity tests.
+4. [Timeseries_FirstLook_1month.py.ipynb](https://github.com/Gauthami25/Predictive-Forecasting/blob/main/Timeseries_FirstLook_1month.ipynb) - Contains code for exploring timeseries from 1 month and 100 VMs. Includes initial models using ARIMA, SARIMAX, Holt-Winters (smoothing), some visualizations, and stationarity tests.
